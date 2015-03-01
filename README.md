@@ -150,6 +150,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 - hola@colombia-dev.org
 - [@colombia_dev](https://twitter.com/colombia_dev)
+- [Comunidad G+](http://goo.gl/CKdzuO)
 
 ## 10. Licencia y atribución
 
